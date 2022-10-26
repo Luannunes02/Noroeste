@@ -1,0 +1,55 @@
+.maps {
+    height: 400px;
+    width: 500px;
+    border-radius: 47px 102px 85px 10px;
+}
+
+.localizationInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.localizationText p {
+    margin: 0;
+    font-weight: 900;
+    font-size: 1.5em;
+    
+}
+
+@media screen and (min-width: 175px) {
+    .maps {
+        height: 250px;
+        width: 240px;
+        border-radius: 47px 102px 85px 10px;
+    }
+    
+}
+
+@media screen and (min-width: 375px) {
+    .maps {
+        height: 250px;
+        width: 340px;
+        border-radius: 47px 102px 85px 10px;
+    }
+    
+}
+
+@media screen and (min-width: 502px) {
+    .maps {
+        height: 400px;
+        width: 450px;
+        border-radius: 47px 102px 85px 10px;
+    }
+    
+}
+
+@media screen and (min-width: 537px) {
+    .maps {
+        height: 400px;
+        width: 500px;
+        border-radius: 47px 102px 85px 10px;
+    }
+    
+}
