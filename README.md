@@ -10,7 +10,7 @@
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    
 
-Projeto para práticar useState no React Native, calcúla o indice de massa corporal(IMC) e exibi para o usuário se ele está magro, no peso ideal, acima do peso...
+Site para demonstrar os produtos que vendem na Noroeste Nutrição Animal LTDA.
 <br>
 <br>
 <h2><strong>🚀 Tecnologias usadas:</strong></h2>   
