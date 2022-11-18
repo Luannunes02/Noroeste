@@ -1,9 +1,10 @@
 <h1 align="center">🦜Noroeste🦜</h1>
 <h2>Site da Noroeste Nutrição Animal LTDA</h2> 
-<strong>Site ainda em desenvolvimento</strong>
-<br><strong>Acesse o site e aproveite: https://noroeste.vercel.app   </strong>
 
 ![Noroeste](https://user-images.githubusercontent.com/105875989/198149469-174a317d-8111-465e-8dbd-4749e3a84fcd.gif)
+
+<strong>Site ainda em desenvolvimento</strong>
+<br><strong>Acesse o site e aproveite: https://noroeste.vercel.app   </strong>
 
 <br>
 <br>
